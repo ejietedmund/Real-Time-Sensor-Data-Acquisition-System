@@ -1,0 +1,25 @@
+# Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+sensor_acq
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+*.log
+core
+core.*
